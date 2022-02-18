@@ -1,0 +1,30 @@
+body{
+text-align: center;}
+
+
+.header {
+margin-top: 2%;
+width: 90%;
+height: 221px;
+background-color: #fff794;
+display: inline-block ;
+}
+
+.menu{
+margin-top: 2%;	
+display: inline-block;
+width: 25%;
+height: 500px;
+background-color: #94ff97;
+
+
+}
+
+.content{
+margin-left: 2%;	
+display: inline-block;
+width: 65%;
+height: 500px;
+background-color: #ab94ff;
+
+}
